@@ -7,4 +7,8 @@ https://images.nasa.gov/docs/images.nasa.gov_api_docs.pdf
 
 Sample app:
 https://github.com/reshmaraghu/TestNASAClient
-/Users/i061647/Downloads/Sample app.gif
+
+
+
+
+![Sample app](https://github.com/reshmaraghu/NASAImageLibrary/blob/master/Resources/Sample%20app.gif)
