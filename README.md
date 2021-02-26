@@ -9,6 +9,4 @@ Sample app:
 https://github.com/reshmaraghu/TestNASAClient
 
 
-
-
-![Sample app](https://github.com/reshmaraghu/NASAImageLibrary/blob/master/Resources/Sample%20app.gif)
+<img src="https://github.com/reshmaraghu/NASAImageLibrary/blob/master/Resources/Sample%20app.gif" height="580" width="280">
